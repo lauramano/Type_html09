@@ -1,0 +1,9 @@
+.flex-conteiner {
+  background-color: red;
+  padding: 25px;
+}
+.post {
+  background-color: snow;
+  padding: 10px;
+  border-radius: 7px;
+}
